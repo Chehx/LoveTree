@@ -20,5 +20,5 @@ var config = {
     //          2.T不能丢了
     date: "2019-09-04T22:00:00",
     // 双方的名字
-    names: ["CybrogBear", "CybrogDoggie"]
+    names: ["Cheche", "Lambo"]
 }
